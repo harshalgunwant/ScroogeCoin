@@ -1,2 +1,2 @@
 # ScroogeCoin
-Bitcoin and Concurrency Technologies 
+Bitcoin and Cryptocurrency Technologies 
